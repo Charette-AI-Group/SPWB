@@ -1,5 +1,5 @@
 # SPWB
-AGSIT is proud to open source the **S**ignal **P**rocessing **W**ork **B**ench (SPWB) software under the MIT license.  The [SPWB](https://agsit.github.io/SPWB/) was developed about a decade ago as a general use signal processing software.  It has been successfully used in a wide range of applications by countless customers.  The SPWB software has reached is end-of-life, so instead of simply retiring it, it was decided to open source it so it can be usefull to a new generation of users. 
+Charette AI Group is proud to open source the **S**ignal **P**rocessing **W**ork **B**ench (SPWB) software under the MIT license.  The [SPWB](https://charette-ai-group.github.io/SPWB/) was developed about a decade ago as a general use signal processing software.  It has been successfully used in a wide range of applications by countless customers.  The SPWB software has reached is end-of-life, so instead of simply retiring it, it was decided to open source it so it can be usefull to a new generation of users.
 
 The current repo contains ALL the LabVIEW vi required to run the software within LabVIEW.  It also contains compiled stand alone versions that can be run using the free runtime engine from National Instruments when LabVIEW is not an option for the user.
 
@@ -7,7 +7,7 @@ The current repo contains ALL the LabVIEW vi required to run the software within
 <br>
 <br>
 
-_If you do end up downloading and using SPWB, please consider making a donation so that AGSIT can continue to open source its various tools._
+_If you do end up downloading and using SPWB, please consider making a donation so that Charette AI Group can continue to open source its various tools._
 
 <br>
 <br>
