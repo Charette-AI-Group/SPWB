@@ -1,34 +1,61 @@
-# SPWB
-AGSIT is proud to open source the **S**ignal **P**rocessing **W**ork **B**ench (SPWB) software under the MIT license.  The [SPWB](https://agsit.github.io/SPWB/) was developed about a decade ago as a general use signal processing software.  It has been successfully used in a wide range of applications by countless customers.  The SPWB software has reached is end-of-life, so instead of simply retiring it, it was decided to open source it so it can be usefull to a new generation of users. 
+# [Start Bootstrap - Scrolling Nav](https://startbootstrap.com/template/scrolling-nav/)
 
-The current repo contains ALL the LabVIEW vi required to run the software within LabVIEW.  It also contains compiled stand alone versions that can be run using the free runtime engine from National Instruments when LabVIEW is not an option for the user.
+[Scrolling Nav](https://startbootstrap.com/template/scrolling-nav/) is an unstyled one page starter template with a collapsing, smooth scrolling navigation bar for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
----
-<br>
-<br>
+## Preview
 
-_If you do end up downloading and using SPWB, please consider making a donation so that AGSIT can continue to open source its various tools._
+[![Scrolling Nav Preview](https://assets.startbootstrap.com/img/screenshots/templates/scrolling-nav.png)](https://startbootstrap.github.io/startbootstrap-scrolling-nav/)
 
-<br>
-<br>
+**[View Live Preview](https://startbootstrap.github.io/startbootstrap-scrolling-nav/)**
 
-<p align="center">
-  <a href="https://www.paypal.com/donate?hosted_button_id=V2LHPTSWUMKWY">
-      <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="paypal">
-  </a>
-</p>
+## Status
 
-<br>
-<br>
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-scrolling-nav/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-scrolling-nav.svg)](https://www.npmjs.com/package/startbootstrap-scrolling-nav)
+[![Build Status](https://travis-ci.org/StartBootstrap/startbootstrap-scrolling-nav.svg?branch=master)](https://travis-ci.org/StartBootstrap/startbootstrap-scrolling-nav)
+[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-scrolling-nav/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-scrolling-nav)
+[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-scrolling-nav/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-scrolling-nav?type=dev)
 
----
+## Download and Installation
 
-The SPWB software can be installed in two  different ways depending on the user preference:
-* [**Cloning the repo**](https://github.com/agsit/SPWB/wiki/Installation-Options#1-repo-cloning) <br>
-  If the user has LabVIEW professional 2020 or above, then cloning the repo is the easiest way and gives access to all the open source software.
+To begin using this template, choose one of the following options to get started:
 
-The next method does not require the user to have access to LabVIEW. In this case, the user will have a fully functional software but since it is a compiled version, the user will not have access to the code itself.  The get access to the code, LabVIEW is required and option 1 above is the one to use.
-<br>
+* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template/scrolling-nav/)
+* Install via npm: `npm i startbootstrap-scrolling-nav`
+* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-scrolling-nav.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-scrolling-nav)
 
-* [**Windows Installer**](https://github.com/agsit/SPWB/wiki/Installation-Options#2-windows-installer)<br>
-The second option consist of using a Windows Installer.  This implies that the user must have administrator rights to install it.  Furthermore, since the download is an *.exe files, Windows 10 will have a series of security warnings during the download and installation since the installer is not digitally signed.
+## Usage
+
+### Basic Usage
+
+After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+
+### Advanced Usage
+
+After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
+
+You must have npm and Gulp installed globally on your machine in order to use these features.
+
+## Bugs and Issues
+
+Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-scrolling-nav/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/template/scrolling-nav/).
+
+## About
+
+Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+
+* <https://startbootstrap.com>
+* <https://twitter.com/SBootstrap>
+
+Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
+
+* <https://davidmiller.io>
+* <https://twitter.com/davidmillerhere>
+* <https://github.com/davidtmiller>
+
+Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+## Copyright and License
+
+Copyright 2013-2020 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-scrolling-nav/blob/gh-pages/LICENSE) license.
