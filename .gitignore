@@ -3,8 +3,8 @@
 *.ps1
 *.pNotes
 
-webSite.branch/
-wiki.branch/
+.webSiteBranch/
+.wikiBranch/
 compiled/
 
 # Libraries
