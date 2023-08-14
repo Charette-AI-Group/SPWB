@@ -27,7 +27,7 @@
 		<Item Name="Docs" Type="Folder">
 			<Item Name="SPWB.ico" Type="Document" URL="../Docs/SPWB.ico"/>
 			<Item Name="SPWB New.ico" Type="Document" URL="../Docs/SPWB New.ico"/>
-			<Item Name="AGSIT Inc Open Source License Agreement (MIT)" Type="Document" URL="../Docs/AGSIT Inc Open Source License Agreement (MIT)"/>
+			<Item Name="Charette-AI-Group Inc Open Source License Agreement (MIT)" Type="Document" URL="../Docs/Charette-AI-Group Inc Open Source License Agreement (MIT)"/>
 		</Item>
 		<Item Name="DSP" Type="Folder">
 			<Item Name="AdvSigProc.lvclass" Type="LVClass" URL="../DSP/AdvSigProc_class/AdvSigProc.lvclass"/>
@@ -40,8 +40,8 @@
 			<Item Name="TDMS.lvclass" Type="LVClass" URL="../File IO/TDMS_class/TDMS.lvclass"/>
 			<Item Name="TEXT.lvclass" Type="LVClass" URL="../File IO/TEXT_class/TEXT.lvclass"/>
 			<Item Name="WaveFile.lvclass" Type="LVClass" URL="../File IO/WaveFile_class/WaveFile.lvclass"/>
-			<Item Name="Manage DataPlugins.vi" Type="VI" URL="//SPOCKAIX01/Users/fcharett/docsWork/coding/repos/agsit/SPWB/File IO/Manage DataPlugins.vi"/>
-			<Item Name="RegisterDataPlugin.vi" Type="VI" URL="//SPOCKAIX01/Users/fcharett/docsWork/coding/repos/agsit/SPWB/File IO/RegisterDataPlugin.vi"/>
+			<Item Name="Manage DataPlugins.vi" Type="VI" URL="//SPOCKAIX01/Users/fcharett/docsWork/coding/repos/Charette-AI-Group/SPWB/File IO/Manage DataPlugins.vi"/>
+			<Item Name="RegisterDataPlugin.vi" Type="VI" URL="//SPOCKAIX01/Users/fcharett/docsWork/coding/repos/Charette-AI-Group/SPWB/File IO/RegisterDataPlugin.vi"/>
 		</Item>
 		<Item Name="User Interfaces" Type="Folder">
 			<Item Name="Time Data Processing (V1.24).vit" Type="VI" URL="../SPWB_class/Time Data Processing (V1.24).vit"/>
@@ -631,10 +631,10 @@
 				<Property Name="Source[7].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[7].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">8</Property>
-				<Property Name="TgtF_companyName" Type="Str">AGSIT Inc</Property>
+				<Property Name="TgtF_companyName" Type="Str">Charette-AI-Group Inc</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">SPWB2012</Property>
 				<Property Name="TgtF_internalName" Type="Str">SPWB2012</Property>
-				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2012 - 2021 AGSIT Inc</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2023 Charette-AI-Group Inc</Property>
 				<Property Name="TgtF_productName" Type="Str">Signal Processing Work Bench 2012</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{0F0B1BFB-D0AB-461D-A6EA-9C187A06CF05}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">SPWB2012.exe</Property>
@@ -699,9 +699,9 @@
 				<Property Name="INST_productVersion" Type="Str">1.0.61</Property>
 				<Property Name="InstSpecBitness" Type="Str">64-bit</Property>
 				<Property Name="InstSpecVersion" Type="Str">20008014</Property>
-				<Property Name="MSI_arpCompany" Type="Str">AGSIT Inc.</Property>
-				<Property Name="MSI_arpContact" Type="Str">AvantGardeSIT@gmail.com</Property>
-				<Property Name="MSI_arpURL" Type="Str">https://agsit.github.io/SPWB/</Property>
+				<Property Name="MSI_arpCompany" Type="Str">Charette-AI-Group Inc.</Property>
+				<Property Name="MSI_arpContact" Type="Str">charette.francois@outlook.com</Property>
+				<Property Name="MSI_arpURL" Type="Str">https://Charette-AI-Group.github.io/SPWB/</Property>
 				<Property Name="MSI_distID" Type="Str">{9AEC9831-9AE6-488D-BED9-03697811E079}</Property>
 				<Property Name="MSI_osCheck" Type="Int">0</Property>
 				<Property Name="MSI_upgradeCode" Type="Str">{F942EDBA-3621-415F-B2EF-862223E28FE8}</Property>
